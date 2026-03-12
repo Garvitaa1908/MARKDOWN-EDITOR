@@ -44,7 +44,7 @@ const TopBar = ({ value, onReset, previewRef, syncEnabled, onToggleSync }) => {
         <div className="flex  items-center gap-3 text-2xl font-semibold tracking-wide select-none">
           &lt;Markdown Editor/&gt;
           <a
-            href="https://github.com/CharanMunur/Markdown-Editor"
+            href="https://github.com/Garvitaa1908/MARKDOWN-EDITOR.git"
             target="_black"
             rel="Github source code"
           >
